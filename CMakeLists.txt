@@ -3,4 +3,4 @@ project(sada C)
 
 set(CMAKE_C_STANDARD 17)
 
-add_executable(sada main.c)
+add_executable(sada src/main.c)
